@@ -28,7 +28,7 @@ done: 'Done!'
 }
 
 //Sesuaikan
-global.thumb = fs.readFileSync('./media/ichi.jpeg')
+global.thumb = fs.readFileSync('./media/SAVE_20220618_164334.jpg')
 global.donasi = fs.readFileSync('./media/SAVE_20220618_170434.jpg')
 global.thumbnail = fs.readFileSync('./media/SAVE_20220505_192535.jpg')
 
